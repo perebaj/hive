@@ -1,0 +1,646 @@
+hospitalPK,nomeHospital,siglaHospital,cidadeHospital,microRegiaoHospital,macroRegiaoHospital,ensinoHospital,administracaoHospital,tipoHospital,financiamentoHospital
+1,Hosp Aruja,HAr,Aruja,Alto do Tiete,Grande Sao Paulo,University,Federal,Direct administration,Public
+2,Hosp Biritiba-Mirim,HBi,Biritiba-Mirim,Alto do Tiete,Grande Sao Paulo,Superior isolated school,State,Indirect administration,Philanthropic
+3,Hosp Ferraz de Vasconcelos,HFe,Ferraz de Vasconcelos,Alto do Tiete,Grande Sao Paulo,Teaching auxiliary,Municipal,Private company,Private
+4,Hosp Guararema,HGu,Guararema,Alto do Tiete,Grande Sao Paulo,No teaching activity,Private,Private foundation,Syndicate
+5,Hosp Itaquaquecetuba,HIt,Itaquaquecetuba,Alto do Tiete,Grande Sao Paulo,Teaching hospital,Not informed,Cooperative,Not informed
+6,Hosp Mogi das Cruzes,HMo,Mogi das Cruzes,Alto do Tiete,Grande Sao Paulo,Teaching activity not informed,Federal,Not informed,Public
+7,Hosp Poa,HPo,Poa,Alto do Tiete,Grande Sao Paulo,University,State,Direct administration,Philanthropic
+8,Hosp Salesopolis,HSa,Salesopolis,Alto do Tiete,Grande Sao Paulo,Superior isolated school,Municipal,Indirect administration,Private
+9,Hosp Santa Isabel,HSa,Santa Isabel,Alto do Tiete,Grande Sao Paulo,Teaching auxiliary,Private,Private company,Syndicate
+10,Hosp Suzano,HSu,Suzano,Alto do Tiete,Grande Sao Paulo,No teaching activity,Not informed,Private foundation,Not informed
+11,Hosp Caieiras,HCa,Caieiras,Franco da Rocha,Grande Sao Paulo,Teaching hospital,Federal,Cooperative,Public
+12,Hosp Cajamar,HCa,Cajamar,Franco da Rocha,Grande Sao Paulo,Teaching activity not informed,State,Not informed,Philanthropic
+13,Hosp Francisco Morato,HFr,Francisco Morato,Franco da Rocha,Grande Sao Paulo,University,Municipal,Direct administration,Private
+14,Hosp Franco da Rocha,HFr,Franco da Rocha,Franco da Rocha,Grande Sao Paulo,Superior isolated school,Private,Indirect administration,Syndicate
+15,Hosp Mairipora,HMa,Mairipora,Franco da Rocha,Grande Sao Paulo,Teaching auxiliary,Not informed,Private company,Not informed
+16,Hosp Guarulhos,HGu,Guarulhos,Guarulhos,Grande Sao Paulo,No teaching activity,Federal,Private foundation,Public
+17,Hosp Cotia,HCo,Cotia,Mananciais,Grande Sao Paulo,Teaching hospital,State,Cooperative,Philanthropic
+18,Hosp Embu,HEm,Embu,Mananciais,Grande Sao Paulo,Teaching activity not informed,Municipal,Not informed,Private
+19,Hosp Embu-Guacu,HEm,Embu-Guacu,Mananciais,Grande Sao Paulo,University,Private,Direct administration,Syndicate
+20,Hosp Itapecerica da Serra,HIt,Itapecerica da Serra,Mananciais,Grande Sao Paulo,Superior isolated school,Not informed,Indirect administration,Not informed
+21,Hosp Juquitiba,HJu,Juquitiba,Mananciais,Grande Sao Paulo,Teaching auxiliary,Federal,Private company,Public
+22,Hosp Sao Lourenco da Serra,HSa,Sao Lourenco da Serra,Mananciais,Grande Sao Paulo,No teaching activity,State,Private foundation,Philanthropic
+23,Hosp Taboao da Serra,HTa,Taboao da Serra,Mananciais,Grande Sao Paulo,Teaching hospital,Municipal,Cooperative,Private
+24,Hosp Vargem Grande Paulista,HVa,Vargem Grande Paulista,Mananciais,Grande Sao Paulo,Teaching activity not informed,Private,Not informed,Syndicate
+25,Hosp Barueri,HBa,Barueri,Rota dos Bandeirantes,Grande Sao Paulo,University,Not informed,Direct administration,Not informed
+26,Hosp Carapicuiba,HCa,Carapicuiba,Rota dos Bandeirantes,Grande Sao Paulo,Superior isolated school,Federal,Indirect administration,Public
+27,Hosp Itapevi,HIt,Itapevi,Rota dos Bandeirantes,Grande Sao Paulo,Teaching auxiliary,State,Private company,Philanthropic
+28,Hosp Jandira,HJa,Jandira,Rota dos Bandeirantes,Grande Sao Paulo,No teaching activity,Municipal,Private foundation,Private
+29,Hosp Osasco,HOs,Osasco,Rota dos Bandeirantes,Grande Sao Paulo,Teaching hospital,Private,Cooperative,Syndicate
+30,Hosp Pirapora do Bom Jesus,HPi,Pirapora do Bom Jesus,Rota dos Bandeirantes,Grande Sao Paulo,Teaching activity not informed,Not informed,Not informed,Not informed
+31,Hosp Santana de Parnaiba,HSa,Santana de Parnaiba,Rota dos Bandeirantes,Grande Sao Paulo,University,Federal,Direct administration,Public
+32,Hosp Diadema,HDi,Diadema,Grande ABC,Grande Sao Paulo,Superior isolated school,State,Indirect administration,Philanthropic
+33,Hosp Maua,HMa,Maua,Grande ABC,Grande Sao Paulo,Teaching auxiliary,Municipal,Private company,Private
+34,Hosp Ribeirao Pires,HRi,Ribeirao Pires,Grande ABC,Grande Sao Paulo,No teaching activity,Private,Private foundation,Syndicate
+35,Hosp Rio Grande da Serra,HRi,Rio Grande da Serra,Grande ABC,Grande Sao Paulo,Teaching hospital,Not informed,Cooperative,Not informed
+36,Hosp Santo Andre,HSa,Santo Andre,Grande ABC,Grande Sao Paulo,Teaching activity not informed,Federal,Not informed,Public
+37,Hosp Sao Bernardo do Campo,HSa,Sao Bernardo do Campo,Grande ABC,Grande Sao Paulo,University,State,Direct administration,Philanthropic
+38,Hosp Sao Caetano do Sul,HSa,Sao Caetano do Sul,Grande ABC,Grande Sao Paulo,Superior isolated school,Municipal,Indirect administration,Private
+39,Hosp Sao Paulo,HSa,Sao Paulo,Sao Paulo,Grande Sao Paulo,Teaching auxiliary,Private,Private company,Syndicate
+40,Hosp Aracatuba,HAr,Aracatuba,Central do DRS II,Aracatuba,No teaching activity,Not informed,Private foundation,Not informed
+41,Hosp Auriflama,HAu,Auriflama,Central do DRS II,Aracatuba,Teaching hospital,Federal,Cooperative,Public
+42,Hosp Bento de Abreu,HBe,Bento de Abreu,Central do DRS II,Aracatuba,Teaching activity not informed,State,Not informed,Philanthropic
+43,Hosp Bilac,HBi,Bilac,Central do DRS II,Aracatuba,University,Municipal,Direct administration,Private
+44,Hosp Guararapes,HGu,Guararapes,Central do DRS II,Aracatuba,Superior isolated school,Private,Indirect administration,Syndicate
+45,Hosp Guzolandia,HGu,Guzolandia,Central do DRS II,Aracatuba,Teaching auxiliary,Not informed,Private company,Not informed
+46,Hosp Nova Castilho,HNo,Nova Castilho,Central do DRS II,Aracatuba,No teaching activity,Federal,Private foundation,Public
+47,Hosp Nova Luzitania,HNo,Nova Luzitania,Central do DRS II,Aracatuba,Teaching hospital,State,Cooperative,Philanthropic
+48,Hosp Rubiacea,HRu,Rubiacea,Central do DRS II,Aracatuba,Teaching activity not informed,Municipal,Not informed,Private
+49,Hosp Santo Antonio do Aracangua,HSa,Santo Antonio do Aracangua,Central do DRS II,Aracatuba,University,Private,Direct administration,Syndicate
+50,Hosp Valparaiso,HVa,Valparaiso,Central do DRS II,Aracatuba,Superior isolated school,Not informed,Indirect administration,Not informed
+51,Hosp Andradina,HAn,Andradina,Lagos do DRS II,Aracatuba,Teaching auxiliary,Federal,Private company,Public
+52,Hosp Castilho,HCa,Castilho,Lagos do DRS II,Aracatuba,No teaching activity,State,Private foundation,Philanthropic
+53,Hosp Guaracai,HGu,Guaracai,Lagos do DRS II,Aracatuba,Teaching hospital,Municipal,Cooperative,Private
+54,Hosp Ilha Solteira,HIl,Ilha Solteira,Lagos do DRS II,Aracatuba,Teaching activity not informed,Private,Not informed,Syndicate
+55,Hosp Itapura,HIt,Itapura,Lagos do DRS II,Aracatuba,University,Not informed,Direct administration,Not informed
+56,Hosp Lavinia,HLa,Lavinia,Lagos do DRS II,Aracatuba,Superior isolated school,Federal,Indirect administration,Public
+57,Hosp Mirandopolis,HMi,Mirandopolis,Lagos do DRS II,Aracatuba,Teaching auxiliary,State,Private company,Philanthropic
+58,Hosp Murutinga do Sul,HMu,Murutinga do Sul,Lagos do DRS II,Aracatuba,No teaching activity,Municipal,Private foundation,Private
+59,Hosp Nova Independencia,HNo,Nova Independencia,Lagos do DRS II,Aracatuba,Teaching hospital,Private,Cooperative,Syndicate
+60,Hosp Pereira Barreto,HPe,Pereira Barreto,Lagos do DRS II,Aracatuba,Teaching activity not informed,Not informed,Not informed,Not informed
+61,Hosp Sud Mennucci,HSu,Sud Mennucci,Lagos do DRS II,Aracatuba,University,Federal,Direct administration,Public
+62,Hosp Suzanapolis,HSu,Suzanapolis,Lagos do DRS II,Aracatuba,Superior isolated school,State,Indirect administration,Philanthropic
+63,Hosp Alto Alegre,HAl,Alto Alegre,Consorcio do DRS II,Aracatuba,Teaching auxiliary,Municipal,Private company,Private
+64,Hosp Avanhandava,HAv,Avanhandava,Consorcio do DRS II,Aracatuba,No teaching activity,Private,Private foundation,Syndicate
+65,Hosp Barbosa,HBa,Barbosa,Consorcio do DRS II,Aracatuba,Teaching hospital,Not informed,Cooperative,Not informed
+66,Hosp Birigui,HBi,Birigui,Consorcio do DRS II,Aracatuba,Teaching activity not informed,Federal,Not informed,Public
+67,Hosp Brauna,HBr,Brauna,Consorcio do DRS II,Aracatuba,University,State,Direct administration,Philanthropic
+68,Hosp Brejo Alegre,HBr,Brejo Alegre,Consorcio do DRS II,Aracatuba,Superior isolated school,Municipal,Indirect administration,Private
+69,Hosp Buritama,HBu,Buritama,Consorcio do DRS II,Aracatuba,Teaching auxiliary,Private,Private company,Syndicate
+70,Hosp Clementina,HCl,Clementina,Consorcio do DRS II,Aracatuba,No teaching activity,Not informed,Private foundation,Not informed
+71,Hosp Coroados,HCo,Coroados,Consorcio do DRS II,Aracatuba,Teaching hospital,Federal,Cooperative,Public
+72,Hosp Gabriel Monteiro,HGa,Gabriel Monteiro,Consorcio do DRS II,Aracatuba,Teaching activity not informed,State,Not informed,Philanthropic
+73,Hosp Glicerio,HGl,Glicerio,Consorcio do DRS II,Aracatuba,University,Municipal,Direct administration,Private
+74,Hosp Lourdes,HLo,Lourdes,Consorcio do DRS II,Aracatuba,Superior isolated school,Private,Indirect administration,Syndicate
+75,Hosp Luiziania,HLu,Luiziania,Consorcio do DRS II,Aracatuba,Teaching auxiliary,Not informed,Private company,Not informed
+76,Hosp Penapolis,HPe,Penapolis,Consorcio do DRS II,Aracatuba,No teaching activity,Federal,Private foundation,Public
+77,Hosp Piacatu,HPi,Piacatu,Consorcio do DRS II,Aracatuba,Teaching hospital,State,Cooperative,Philanthropic
+78,Hosp Santopolis do Aguapei,HSa,Santopolis do Aguapei,Consorcio do DRS II,Aracatuba,Teaching activity not informed,Municipal,Not informed,Private
+79,Hosp Turiuba,HTu,Turiuba,Consorcio do DRS II,Aracatuba,University,Private,Direct administration,Syndicate
+80,Hosp Americo Brasiliense,HAm,Americo Brasiliense,Central do DRS III,Araraquara,Superior isolated school,Not informed,Indirect administration,Not informed
+81,Hosp Araraquara,HAr,Araraquara,Central do DRS III,Araraquara,Teaching auxiliary,Federal,Private company,Public
+82,Hosp Boa Esperanca do Sul,HBo,Boa Esperanca do Sul,Central do DRS III,Araraquara,No teaching activity,State,Private foundation,Philanthropic
+83,Hosp Gaviao Peixoto,HGa,Gaviao Peixoto,Central do DRS III,Araraquara,Teaching hospital,Municipal,Cooperative,Private
+84,Hosp Motuca,HMo,Motuca,Central do DRS III,Araraquara,Teaching activity not informed,Private,Not informed,Syndicate
+85,Hosp Rincao,HRi,Rincao,Central do DRS III,Araraquara,University,Not informed,Direct administration,Not informed
+86,Hosp Santa Lucia,HSa,Santa Lucia,Central do DRS III,Araraquara,Superior isolated school,Federal,Indirect administration,Public
+87,Hosp Trabiju,HTr,Trabiju,Central do DRS III,Araraquara,Teaching auxiliary,State,Private company,Philanthropic
+88,Hosp Borborema,HBo,Borborema,Centro Oeste do DRS III,Araraquara,No teaching activity,Municipal,Private foundation,Private
+89,Hosp Ibitinga,HIb,Ibitinga,Centro Oeste do DRS III,Araraquara,Teaching hospital,Private,Cooperative,Syndicate
+90,Hosp Itapolis,HIt,Itapolis,Centro Oeste do DRS III,Araraquara,Teaching activity not informed,Not informed,Not informed,Not informed
+91,Hosp Nova Europa,HNo,Nova Europa,Centro Oeste do DRS III,Araraquara,University,Federal,Direct administration,Public
+92,Hosp Tabatinga,HTa,Tabatinga,Centro Oeste do DRS III,Araraquara,Superior isolated school,State,Indirect administration,Philanthropic
+93,Hosp Candido Rodrigues,HCa,Candido Rodrigues,Norte do DRS III,Araraquara,Teaching auxiliary,Municipal,Private company,Private
+94,Hosp Dobrada,HDo,Dobrada,Norte do DRS III,Araraquara,No teaching activity,Private,Private foundation,Syndicate
+95,Hosp Matao,HMa,Matao,Norte do DRS III,Araraquara,Teaching hospital,Not informed,Cooperative,Not informed
+96,Hosp Santa Ernestina,HSa,Santa Ernestina,Norte do DRS III,Araraquara,Teaching activity not informed,Federal,Not informed,Public
+97,Hosp Taquaritinga,HTa,Taquaritinga,Norte do DRS III,Araraquara,University,State,Direct administration,Philanthropic
+98,Hosp Descalvado,HDe,Descalvado,Coracao do DRS III,Araraquara,Superior isolated school,Municipal,Indirect administration,Private
+99,Hosp Dourado,HDo,Dourado,Coracao do DRS III,Araraquara,Teaching auxiliary,Private,Private company,Syndicate
+100,Hosp Ibate,HIb,Ibate,Coracao do DRS III,Araraquara,No teaching activity,Not informed,Private foundation,Not informed
+101,Hosp Porto Ferreira,HPo,Porto Ferreira,Coracao do DRS III,Araraquara,Teaching hospital,Federal,Cooperative,Public
+102,Hosp Ribeirao Bonito,HRi,Ribeirao Bonito,Coracao do DRS III,Araraquara,Teaching activity not informed,State,Not informed,Philanthropic
+103,Hosp Sao Carlos,HSa,Sao Carlos,Coracao do DRS III,Araraquara,University,Municipal,Direct administration,Private
+104,Hosp Bertioga,HBe,Bertioga,Baixada Santista,Baixada Santista,Superior isolated school,Private,Indirect administration,Syndicate
+105,Hosp Cubatao,HCu,Cubatao,Baixada Santista,Baixada Santista,Teaching auxiliary,Not informed,Private company,Not informed
+106,Hosp Guaruja,HGu,Guaruja,Baixada Santista,Baixada Santista,No teaching activity,Federal,Private foundation,Public
+107,Hosp Itanhaem,HIt,Itanhaem,Baixada Santista,Baixada Santista,Teaching hospital,State,Cooperative,Philanthropic
+108,Hosp Mongagua,HMo,Mongagua,Baixada Santista,Baixada Santista,Teaching activity not informed,Municipal,Not informed,Private
+109,Hosp Peruibe,HPe,Peruibe,Baixada Santista,Baixada Santista,University,Private,Direct administration,Syndicate
+110,Hosp Praia Grande,HPr,Praia Grande,Baixada Santista,Baixada Santista,Superior isolated school,Not informed,Indirect administration,Not informed
+111,Hosp Santos,HSa,Santos,Baixada Santista,Baixada Santista,Teaching auxiliary,Federal,Private company,Public
+112,Hosp Sao Vicente,HSa,Sao Vicente,Baixada Santista,Baixada Santista,No teaching activity,State,Private foundation,Philanthropic
+113,Hosp Altair,HAl,Altair,Norte - Barretos,Barretos,Teaching hospital,Municipal,Cooperative,Private
+114,Hosp Barretos,HBa,Barretos,Norte - Barretos,Barretos,Teaching activity not informed,Private,Not informed,Syndicate
+115,Hosp Cajobi,HCa,Cajobi,Norte - Barretos,Barretos,University,Not informed,Direct administration,Not informed
+116,Hosp Colina,HCo,Colina,Norte - Barretos,Barretos,Superior isolated school,Federal,Indirect administration,Public
+117,Hosp Colombia,HCo,Colombia,Norte - Barretos,Barretos,Teaching auxiliary,State,Private company,Philanthropic
+118,Hosp Embauba,HEm,Embauba,Norte - Barretos,Barretos,No teaching activity,Municipal,Private foundation,Private
+119,Hosp Guaira,HGu,Guaira,Norte - Barretos,Barretos,Teaching hospital,Private,Cooperative,Syndicate
+120,Hosp Guaraci,HGu,Guaraci,Norte - Barretos,Barretos,Teaching activity not informed,Not informed,Not informed,Not informed
+121,Hosp Jaborandi,HJa,Jaborandi,Norte - Barretos,Barretos,University,Federal,Direct administration,Public
+122,Hosp Olimpia,HOl,Olimpia,Norte - Barretos,Barretos,Superior isolated school,State,Indirect administration,Philanthropic
+123,Hosp Severinia,HSe,Severinia,Norte - Barretos,Barretos,Teaching auxiliary,Municipal,Private company,Private
+124,Hosp Bebedouro,HBe,Bebedouro,Sul - Barretos,Barretos,No teaching activity,Private,Private foundation,Syndicate
+125,Hosp Monte Azul Paulista,HMo,Monte Azul Paulista,Sul - Barretos,Barretos,Teaching hospital,Not informed,Cooperative,Not informed
+126,Hosp Taiacu,HTa,Taiacu,Sul - Barretos,Barretos,Teaching activity not informed,Federal,Not informed,Public
+127,Hosp Taiuva,HTa,Taiuva,Sul - Barretos,Barretos,University,State,Direct administration,Philanthropic
+128,Hosp Taquaral,HTa,Taquaral,Sul - Barretos,Barretos,Superior isolated school,Municipal,Indirect administration,Private
+129,Hosp Terra Roxa,HTe,Terra Roxa,Sul - Barretos,Barretos,Teaching auxiliary,Private,Private company,Syndicate
+130,Hosp Viradouro,HVi,Viradouro,Sul - Barretos,Barretos,No teaching activity,Not informed,Private foundation,Not informed
+131,Hosp Vista Alegre do Alto,HVi,Vista Alegre do Alto,Sul - Barretos,Barretos,Teaching hospital,Federal,Cooperative,Public
+132,Hosp aguas de Santa Barbara,Hag,aguas de Santa Barbara,Avare,Bauru,Teaching activity not informed,State,Not informed,Philanthropic
+133,Hosp Arandu,HAr,Arandu,Avare,Bauru,University,Municipal,Direct administration,Private
+134,Hosp Avare,HAv,Avare,Avare,Bauru,Superior isolated school,Private,Indirect administration,Syndicate
+135,Hosp Barao de Antonina,HBa,Barao de Antonina,Avare,Bauru,Teaching auxiliary,Not informed,Private company,Not informed
+136,Hosp Cerqueira Cesar,HCe,Cerqueira Cesar,Avare,Bauru,No teaching activity,Federal,Private foundation,Public
+137,Hosp Coronel Macedo,HCo,Coronel Macedo,Avare,Bauru,Teaching hospital,State,Cooperative,Philanthropic
+138,Hosp Fartura,HFa,Fartura,Avare,Bauru,Teaching activity not informed,Municipal,Not informed,Private
+139,Hosp Iaras,HIa,Iaras,Avare,Bauru,University,Private,Direct administration,Syndicate
+140,Hosp Itai,HIt,Itai,Avare,Bauru,Superior isolated school,Not informed,Indirect administration,Not informed
+141,Hosp Itaporanga,HIt,Itaporanga,Avare,Bauru,Teaching auxiliary,Federal,Private company,Public
+142,Hosp Manduri,HMa,Manduri,Avare,Bauru,No teaching activity,State,Private foundation,Philanthropic
+143,Hosp Paranapanema,HPa,Paranapanema,Avare,Bauru,Teaching hospital,Municipal,Cooperative,Private
+144,Hosp Piraju,HPi,Piraju,Avare,Bauru,Teaching activity not informed,Private,Not informed,Syndicate
+145,Hosp Sarutaia,HSa,Sarutaia,Avare,Bauru,University,Not informed,Direct administration,Not informed
+146,Hosp Taguai,HTa,Taguai,Avare,Bauru,Superior isolated school,Federal,Indirect administration,Public
+147,Hosp Taquarituba,HTa,Taquarituba,Avare,Bauru,Teaching auxiliary,State,Private company,Philanthropic
+148,Hosp Tejupa,HTe,Tejupa,Avare,Bauru,No teaching activity,Municipal,Private foundation,Private
+149,Hosp Agudos,HAg,Agudos,Bauru,Bauru,Teaching hospital,Private,Cooperative,Syndicate
+150,Hosp Arealva,HAr,Arealva,Bauru,Bauru,Teaching activity not informed,Not informed,Not informed,Not informed
+151,Hosp Avai,HAv,Avai,Bauru,Bauru,University,Federal,Direct administration,Public
+152,Hosp Balbinos,HBa,Balbinos,Bauru,Bauru,Superior isolated school,State,Indirect administration,Philanthropic
+153,Hosp Bauru,HBa,Bauru,Bauru,Bauru,Teaching auxiliary,Municipal,Private company,Private
+154,Hosp Borebi,HBo,Borebi,Bauru,Bauru,No teaching activity,Private,Private foundation,Syndicate
+155,Hosp Cabralia Paulista,HCa,Cabralia Paulista,Bauru,Bauru,Teaching hospital,Not informed,Cooperative,Not informed
+156,Hosp Duartina,HDu,Duartina,Bauru,Bauru,Teaching activity not informed,Federal,Not informed,Public
+157,Hosp Iacanga,HIa,Iacanga,Bauru,Bauru,University,State,Direct administration,Philanthropic
+158,Hosp Lencois Paulista,HLe,Lencois Paulista,Bauru,Bauru,Superior isolated school,Municipal,Indirect administration,Private
+159,Hosp Lucianopolis,HLu,Lucianopolis,Bauru,Bauru,Teaching auxiliary,Private,Private company,Syndicate
+160,Hosp Macatuba,HMa,Macatuba,Bauru,Bauru,No teaching activity,Not informed,Private foundation,Not informed
+161,Hosp Paulistania,HPa,Paulistania,Bauru,Bauru,Teaching hospital,Federal,Cooperative,Public
+162,Hosp Pederneiras,HPe,Pederneiras,Bauru,Bauru,Teaching activity not informed,State,Not informed,Philanthropic
+163,Hosp Pirajui,HPi,Pirajui,Bauru,Bauru,University,Municipal,Direct administration,Private
+164,Hosp Piratininga,HPi,Piratininga,Bauru,Bauru,Superior isolated school,Private,Indirect administration,Syndicate
+165,Hosp Presidente Alves,HPr,Presidente Alves,Bauru,Bauru,Teaching auxiliary,Not informed,Private company,Not informed
+166,Hosp Reginopolis,HRe,Reginopolis,Bauru,Bauru,No teaching activity,Federal,Private foundation,Public
+167,Hosp Anhembi,HAn,Anhembi,Polo Cuesta,Bauru,Teaching hospital,State,Cooperative,Philanthropic
+168,Hosp Areiopolis,HAr,Areiopolis,Polo Cuesta,Bauru,Teaching activity not informed,Municipal,Not informed,Private
+169,Hosp Bofete,HBo,Bofete,Polo Cuesta,Bauru,University,Private,Direct administration,Syndicate
+170,Hosp Botucatu,HBo,Botucatu,Polo Cuesta,Bauru,Superior isolated school,Not informed,Indirect administration,Not informed
+171,Hosp Conchas,HCo,Conchas,Polo Cuesta,Bauru,Teaching auxiliary,Federal,Private company,Public
+172,Hosp Itatinga,HIt,Itatinga,Polo Cuesta,Bauru,No teaching activity,State,Private foundation,Philanthropic
+173,Hosp Laranjal Paulista,HLa,Laranjal Paulista,Polo Cuesta,Bauru,Teaching hospital,Municipal,Cooperative,Private
+174,Hosp Pardinho,HPa,Pardinho,Polo Cuesta,Bauru,Teaching activity not informed,Private,Not informed,Syndicate
+175,Hosp Pereiras,HPe,Pereiras,Polo Cuesta,Bauru,University,Not informed,Direct administration,Not informed
+176,Hosp Porangaba,HPo,Porangaba,Polo Cuesta,Bauru,Superior isolated school,Federal,Indirect administration,Public
+177,Hosp Pratania,HPr,Pratania,Polo Cuesta,Bauru,Teaching auxiliary,State,Private company,Philanthropic
+178,Hosp Sao Manuel,HSa,Sao Manuel,Polo Cuesta,Bauru,No teaching activity,Municipal,Private foundation,Private
+179,Hosp Torre de Pedra,HTo,Torre de Pedra,Polo Cuesta,Bauru,Teaching hospital,Private,Cooperative,Syndicate
+180,Hosp Bariri,HBa,Bariri,Jau,Bauru,Teaching activity not informed,Not informed,Not informed,Not informed
+181,Hosp Barra Bonita,HBa,Barra Bonita,Jau,Bauru,University,Federal,Direct administration,Public
+182,Hosp Bocaina,HBo,Bocaina,Jau,Bauru,Superior isolated school,State,Indirect administration,Philanthropic
+183,Hosp Boraceia,HBo,Boraceia,Jau,Bauru,Teaching auxiliary,Municipal,Private company,Private
+184,Hosp Brotas,HBr,Brotas,Jau,Bauru,No teaching activity,Private,Private foundation,Syndicate
+185,Hosp Dois Corregos,HDo,Dois Corregos,Jau,Bauru,Teaching hospital,Not informed,Cooperative,Not informed
+186,Hosp Igaracu do Tiete,HIg,Igaracu do Tiete,Jau,Bauru,Teaching activity not informed,Federal,Not informed,Public
+187,Hosp Itaju,HIt,Itaju,Jau,Bauru,University,State,Direct administration,Philanthropic
+188,Hosp Itapui,HIt,Itapui,Jau,Bauru,Superior isolated school,Municipal,Indirect administration,Private
+189,Hosp Jau,HJa,Jau,Jau,Bauru,Teaching auxiliary,Private,Private company,Syndicate
+190,Hosp Mineiros do Tiete,HMi,Mineiros do Tiete,Jau,Bauru,No teaching activity,Not informed,Private foundation,Not informed
+191,Hosp Torrinha,HTo,Torrinha,Jau,Bauru,Teaching hospital,Federal,Cooperative,Public
+192,Hosp Cafelandia,HCa,Cafelandia,Lins,Bauru,Teaching activity not informed,State,Not informed,Philanthropic
+193,Hosp Getulina,HGe,Getulina,Lins,Bauru,University,Municipal,Direct administration,Private
+194,Hosp Guaicara,HGu,Guaicara,Lins,Bauru,Superior isolated school,Private,Indirect administration,Syndicate
+195,Hosp Lins,HLi,Lins,Lins,Bauru,Teaching auxiliary,Not informed,Private company,Not informed
+196,Hosp Pongai,HPo,Pongai,Lins,Bauru,No teaching activity,Federal,Private foundation,Public
+197,Hosp Promissao,HPr,Promissao,Lins,Bauru,Teaching hospital,State,Cooperative,Philanthropic
+198,Hosp Sabino,HSa,Sabino,Lins,Bauru,Teaching activity not informed,Municipal,Not informed,Private
+199,Hosp Uru,HUr,Uru,Lins,Bauru,University,Private,Direct administration,Syndicate
+200,Hosp Atibaia,HAt,Atibaia,Braganca,Campinas,Superior isolated school,Not informed,Indirect administration,Not informed
+201,Hosp Bom Jesus dos Perdoes,HBo,Bom Jesus dos Perdoes,Braganca,Campinas,Teaching auxiliary,Federal,Private company,Public
+202,Hosp Braganca Paulista,HBr,Braganca Paulista,Braganca,Campinas,No teaching activity,State,Private foundation,Philanthropic
+203,Hosp Joanopolis,HJo,Joanopolis,Braganca,Campinas,Teaching hospital,Municipal,Cooperative,Private
+204,Hosp Nazare Paulista,HNa,Nazare Paulista,Braganca,Campinas,Teaching activity not informed,Private,Not informed,Syndicate
+205,Hosp Pedra Bela,HPe,Pedra Bela,Braganca,Campinas,University,Not informed,Direct administration,Not informed
+206,Hosp Pinhalzinho,HPi,Pinhalzinho,Braganca,Campinas,Superior isolated school,Federal,Indirect administration,Public
+207,Hosp Piracaia,HPi,Piracaia,Braganca,Campinas,Teaching auxiliary,State,Private company,Philanthropic
+208,Hosp Socorro,HSo,Socorro,Braganca,Campinas,No teaching activity,Municipal,Private foundation,Private
+209,Hosp Tuiuti,HTu,Tuiuti,Braganca,Campinas,Teaching hospital,Private,Cooperative,Syndicate
+210,Hosp Vargem,HVa,Vargem,Braganca,Campinas,Teaching activity not informed,Not informed,Not informed,Not informed
+211,Hosp aguas de Lindoia,Hag,aguas de Lindoia,Campinas,Campinas,University,Federal,Direct administration,Public
+212,Hosp Amparo,HAm,Amparo,Campinas,Campinas,Superior isolated school,State,Indirect administration,Philanthropic
+213,Hosp Campinas,HCa,Campinas,Campinas,Campinas,Teaching auxiliary,Municipal,Private company,Private
+214,Hosp Indaiatuba,HIn,Indaiatuba,Campinas,Campinas,No teaching activity,Private,Private foundation,Syndicate
+215,Hosp Lindoia,HLi,Lindoia,Campinas,Campinas,Teaching hospital,Not informed,Cooperative,Not informed
+216,Hosp Monte Alegre do Sul,HMo,Monte Alegre do Sul,Campinas,Campinas,Teaching activity not informed,Federal,Not informed,Public
+217,Hosp Monte Mor,HMo,Monte Mor,Campinas,Campinas,University,State,Direct administration,Philanthropic
+218,Hosp Pedreira,HPe,Pedreira,Campinas,Campinas,Superior isolated school,Municipal,Indirect administration,Private
+219,Hosp Serra Negra,HSe,Serra Negra,Campinas,Campinas,Teaching auxiliary,Private,Private company,Syndicate
+220,Hosp Valinhos,HVa,Valinhos,Campinas,Campinas,No teaching activity,Not informed,Private foundation,Not informed
+221,Hosp Vinhedo,HVi,Vinhedo,Campinas,Campinas,Teaching hospital,Federal,Cooperative,Public
+222,Hosp Cabreuva,HCa,Cabreuva,Jundiai,Campinas,Teaching activity not informed,State,Not informed,Philanthropic
+223,Hosp Campo Limpo Paulista,HCa,Campo Limpo Paulista,Jundiai,Campinas,University,Municipal,Direct administration,Private
+224,Hosp Itatiba,HIt,Itatiba,Jundiai,Campinas,Superior isolated school,Private,Indirect administration,Syndicate
+225,Hosp Itupeva,HIt,Itupeva,Jundiai,Campinas,Teaching auxiliary,Not informed,Private company,Not informed
+226,Hosp Jarinu,HJa,Jarinu,Jundiai,Campinas,No teaching activity,Federal,Private foundation,Public
+227,Hosp Jundiai,HJu,Jundiai,Jundiai,Campinas,Teaching hospital,State,Cooperative,Philanthropic
+228,Hosp Louveira,HLo,Louveira,Jundiai,Campinas,Teaching activity not informed,Municipal,Not informed,Private
+229,Hosp Morungaba,HMo,Morungaba,Jundiai,Campinas,University,Private,Direct administration,Syndicate
+230,Hosp Varzea Paulista,HVa,Varzea Paulista,Jundiai,Campinas,Superior isolated school,Not informed,Indirect administration,Not informed
+231,Hosp Americana,HAm,Americana,Oeste VII,Campinas,Teaching auxiliary,Federal,Private company,Public
+232,Hosp Artur Nogueira,HAr,Artur Nogueira,Oeste VII,Campinas,No teaching activity,State,Private foundation,Philanthropic
+233,Hosp Cosmopolis,HCo,Cosmopolis,Oeste VII,Campinas,Teaching hospital,Municipal,Cooperative,Private
+234,Hosp Holambra,HHo,Holambra,Oeste VII,Campinas,Teaching activity not informed,Private,Not informed,Syndicate
+235,Hosp Hortolandia,HHo,Hortolandia,Oeste VII,Campinas,University,Not informed,Direct administration,Not informed
+236,Hosp Jaguariuna,HJa,Jaguariuna,Oeste VII,Campinas,Superior isolated school,Federal,Indirect administration,Public
+237,Hosp Nova Odessa,HNo,Nova Odessa,Oeste VII,Campinas,Teaching auxiliary,State,Private company,Philanthropic
+238,Hosp Paulinia,HPa,Paulinia,Oeste VII,Campinas,No teaching activity,Municipal,Private foundation,Private
+239,Hosp Santa Barbara d'Oeste,HSa,Santa Barbara d'Oeste,Oeste VII,Campinas,Teaching hospital,Private,Cooperative,Syndicate
+240,Hosp Santo Antonio de Posse,HSa,Santo Antonio de Posse,Oeste VII,Campinas,Teaching activity not informed,Not informed,Not informed,Not informed
+241,Hosp Sumare,HSu,Sumare,Oeste VII,Campinas,University,Federal,Direct administration,Public
+242,Hosp Cristais Paulista,HCr,Cristais Paulista,Tres Colinas,Franca,Superior isolated school,State,Indirect administration,Philanthropic
+243,Hosp Franca,HFr,Franca,Tres Colinas,Franca,Teaching auxiliary,Municipal,Private company,Private
+244,Hosp Itirapua,HIt,Itirapua,Tres Colinas,Franca,No teaching activity,Private,Private foundation,Syndicate
+245,Hosp Jeriquara,HJe,Jeriquara,Tres Colinas,Franca,Teaching hospital,Not informed,Cooperative,Not informed
+246,Hosp Patrocinio Paulista,HPa,Patrocinio Paulista,Tres Colinas,Franca,Teaching activity not informed,Federal,Not informed,Public
+247,Hosp Pedregulho,HPe,Pedregulho,Tres Colinas,Franca,University,State,Direct administration,Philanthropic
+248,Hosp Restinga,HRe,Restinga,Tres Colinas,Franca,Superior isolated school,Municipal,Indirect administration,Private
+249,Hosp Ribeirao Corrente,HRi,Ribeirao Corrente,Tres Colinas,Franca,Teaching auxiliary,Private,Private company,Syndicate
+250,Hosp Rifaina,HRi,Rifaina,Tres Colinas,Franca,No teaching activity,Not informed,Private foundation,Not informed
+251,Hosp Sao Jose da Bela Vista,HSa,Sao Jose da Bela Vista,Tres Colinas,Franca,Teaching hospital,Federal,Cooperative,Public
+252,Hosp Ipua,HIp,Ipua,Alta Anhanguera,Franca,Teaching activity not informed,State,Not informed,Philanthropic
+253,Hosp Morro Agudo,HMo,Morro Agudo,Alta Anhanguera,Franca,University,Municipal,Direct administration,Private
+254,Hosp Nuporanga,HNu,Nuporanga,Alta Anhanguera,Franca,Superior isolated school,Private,Indirect administration,Syndicate
+255,Hosp Orlandia,HOr,Orlandia,Alta Anhanguera,Franca,Teaching auxiliary,Not informed,Private company,Not informed
+256,Hosp Sales Oliveira,HSa,Sales Oliveira,Alta Anhanguera,Franca,No teaching activity,Federal,Private foundation,Public
+257,Hosp Sao Joaquim da Barra,HSa,Sao Joaquim da Barra,Alta Anhanguera,Franca,Teaching hospital,State,Cooperative,Philanthropic
+258,Hosp Aramina,HAr,Aramina,Alta Mogiana,Franca,Teaching activity not informed,Municipal,Not informed,Private
+259,Hosp Buritizal,HBu,Buritizal,Alta Mogiana,Franca,University,Private,Direct administration,Syndicate
+260,Hosp Guara,HGu,Guara,Alta Mogiana,Franca,Superior isolated school,Not informed,Indirect administration,Not informed
+261,Hosp Igarapava,HIg,Igarapava,Alta Mogiana,Franca,Teaching auxiliary,Federal,Private company,Public
+262,Hosp Ituverava,HIt,Ituverava,Alta Mogiana,Franca,No teaching activity,State,Private foundation,Philanthropic
+263,Hosp Miguelopolis,HMi,Miguelopolis,Alta Mogiana,Franca,Teaching hospital,Municipal,Cooperative,Private
+264,Hosp Adamantina,HAd,Adamantina,Adamantina,Marilia,Teaching activity not informed,Private,Not informed,Syndicate
+265,Hosp Florida Paulista,HFl,Florida Paulista,Adamantina,Marilia,University,Not informed,Direct administration,Not informed
+266,Hosp Inubia Paulista,HIn,Inubia Paulista,Adamantina,Marilia,Superior isolated school,Federal,Indirect administration,Public
+267,Hosp Lucelia,HLu,Lucelia,Adamantina,Marilia,Teaching auxiliary,State,Private company,Philanthropic
+268,Hosp Mariapolis,HMa,Mariapolis,Adamantina,Marilia,No teaching activity,Municipal,Private foundation,Private
+269,Hosp Osvaldo Cruz,HOs,Osvaldo Cruz,Adamantina,Marilia,Teaching hospital,Private,Cooperative,Syndicate
+270,Hosp Pacaembu,HPa,Pacaembu,Adamantina,Marilia,Teaching activity not informed,Not informed,Not informed,Not informed
+271,Hosp Pracinha,HPr,Pracinha,Adamantina,Marilia,University,Federal,Direct administration,Public
+272,Hosp Sagres,HSa,Sagres,Adamantina,Marilia,Superior isolated school,State,Indirect administration,Philanthropic
+273,Hosp Salmourao,HSa,Salmourao,Adamantina,Marilia,Teaching auxiliary,Municipal,Private company,Private
+274,Hosp Assis,HAs,Assis,Assis,Marilia,No teaching activity,Private,Private foundation,Syndicate
+275,Hosp Bora,HBo,Bora,Assis,Marilia,Teaching hospital,Not informed,Cooperative,Not informed
+276,Hosp Candido Mota,HCa,Candido Mota,Assis,Marilia,Teaching activity not informed,Federal,Not informed,Public
+277,Hosp Cruzalia,HCr,Cruzalia,Assis,Marilia,University,State,Direct administration,Philanthropic
+278,Hosp Florinia,HFl,Florinia,Assis,Marilia,Superior isolated school,Municipal,Indirect administration,Private
+279,Hosp Ibirarema,HIb,Ibirarema,Assis,Marilia,Teaching auxiliary,Private,Private company,Syndicate
+280,Hosp Lutecia,HLu,Lutecia,Assis,Marilia,No teaching activity,Not informed,Private foundation,Not informed
+281,Hosp Maracai,HMa,Maracai,Assis,Marilia,Teaching hospital,Federal,Cooperative,Public
+282,Hosp Palmital,HPa,Palmital,Assis,Marilia,Teaching activity not informed,State,Not informed,Philanthropic
+283,Hosp Paraguacu Paulista,HPa,Paraguacu Paulista,Assis,Marilia,University,Municipal,Direct administration,Private
+284,Hosp Pedrinhas Paulista,HPe,Pedrinhas Paulista,Assis,Marilia,Superior isolated school,Private,Indirect administration,Syndicate
+285,Hosp Platina,HPl,Platina,Assis,Marilia,Teaching auxiliary,Not informed,Private company,Not informed
+286,Hosp Taruma,HTa,Taruma,Assis,Marilia,No teaching activity,Federal,Private foundation,Public
+287,Hosp alvaro de Carvalho,Hal,alvaro de Carvalho,Marilia,Marilia,Teaching hospital,State,Cooperative,Philanthropic
+288,Hosp Alvinlandia,HAl,Alvinlandia,Marilia,Marilia,Teaching activity not informed,Municipal,Not informed,Private
+289,Hosp Campos Novos Paulista,HCa,Campos Novos Paulista,Marilia,Marilia,University,Private,Direct administration,Syndicate
+290,Hosp Echapora,HEc,Echapora,Marilia,Marilia,Superior isolated school,Not informed,Indirect administration,Not informed
+291,Hosp Fernao,HFe,Fernao,Marilia,Marilia,Teaching auxiliary,Federal,Private company,Public
+292,Hosp Galia,HGa,Galia,Marilia,Marilia,No teaching activity,State,Private foundation,Philanthropic
+293,Hosp Garca,HGa,Garca,Marilia,Marilia,Teaching hospital,Municipal,Cooperative,Private
+294,Hosp Guaimbe,HGu,Guaimbe,Marilia,Marilia,Teaching activity not informed,Private,Not informed,Syndicate
+295,Hosp Guaranta,HGu,Guaranta,Marilia,Marilia,University,Not informed,Direct administration,Not informed
+296,Hosp Julio Mesquita,HJu,Julio Mesquita,Marilia,Marilia,Superior isolated school,Federal,Indirect administration,Public
+297,Hosp Lupercio,HLu,Lupercio,Marilia,Marilia,Teaching auxiliary,State,Private company,Philanthropic
+298,Hosp Marilia,HMa,Marilia,Marilia,Marilia,No teaching activity,Municipal,Private foundation,Private
+299,Hosp Ocaucu,HOc,Ocaucu,Marilia,Marilia,Teaching hospital,Private,Cooperative,Syndicate
+300,Hosp Oriente,HOr,Oriente,Marilia,Marilia,Teaching activity not informed,Not informed,Not informed,Not informed
+301,Hosp Oscar Bressane,HOs,Oscar Bressane,Marilia,Marilia,University,Federal,Direct administration,Public
+302,Hosp Pompeia,HPo,Pompeia,Marilia,Marilia,Superior isolated school,State,Indirect administration,Philanthropic
+303,Hosp Quintana,HQu,Quintana,Marilia,Marilia,Teaching auxiliary,Municipal,Private company,Private
+304,Hosp Ubirajara,HUb,Ubirajara,Marilia,Marilia,No teaching activity,Private,Private foundation,Syndicate
+305,Hosp Vera Cruz,HVe,Vera Cruz,Marilia,Marilia,Teaching hospital,Not informed,Cooperative,Not informed
+306,Hosp Bernardino de Campos,HBe,Bernardino de Campos,Ourinhos,Marilia,Teaching activity not informed,Federal,Not informed,Public
+307,Hosp Canitar,HCa,Canitar,Ourinhos,Marilia,University,State,Direct administration,Philanthropic
+308,Hosp Chavantes,HCh,Chavantes,Ourinhos,Marilia,Superior isolated school,Municipal,Indirect administration,Private
+309,Hosp Espirito Santo do Turvo,HEs,Espirito Santo do Turvo,Ourinhos,Marilia,Teaching auxiliary,Private,Private company,Syndicate
+310,Hosp Ipaussu,HIp,Ipaussu,Ourinhos,Marilia,No teaching activity,Not informed,Private foundation,Not informed
+311,Hosp oleo,Hol,oleo,Ourinhos,Marilia,Teaching hospital,Federal,Cooperative,Public
+312,Hosp Ourinhos,HOu,Ourinhos,Ourinhos,Marilia,Teaching activity not informed,State,Not informed,Philanthropic
+313,Hosp Ribeirao do Sul,HRi,Ribeirao do Sul,Ourinhos,Marilia,University,Municipal,Direct administration,Private
+314,Hosp Salto Grande,HSa,Salto Grande,Ourinhos,Marilia,Superior isolated school,Private,Indirect administration,Syndicate
+315,Hosp Santa Cruz do Rio Pardo,HSa,Santa Cruz do Rio Pardo,Ourinhos,Marilia,Teaching auxiliary,Not informed,Private company,Not informed
+316,Hosp Sao Pedro do Turvo,HSa,Sao Pedro do Turvo,Ourinhos,Marilia,No teaching activity,Federal,Private foundation,Public
+317,Hosp Timburi,HTi,Timburi,Ourinhos,Marilia,Teaching hospital,State,Cooperative,Philanthropic
+318,Hosp Arco-iris,HAr,Arco-iris,Tupa,Marilia,Teaching activity not informed,Municipal,Not informed,Private
+319,Hosp Bastos,HBa,Bastos,Tupa,Marilia,University,Private,Direct administration,Syndicate
+320,Hosp Herculandia,HHe,Herculandia,Tupa,Marilia,Superior isolated school,Not informed,Indirect administration,Not informed
+321,Hosp Iacri,HIa,Iacri,Tupa,Marilia,Teaching auxiliary,Federal,Private company,Public
+322,Hosp Parapua,HPa,Parapua,Tupa,Marilia,No teaching activity,State,Private foundation,Philanthropic
+323,Hosp Queiroz,HQu,Queiroz,Tupa,Marilia,Teaching hospital,Municipal,Cooperative,Private
+324,Hosp Rinopolis,HRi,Rinopolis,Tupa,Marilia,Teaching activity not informed,Private,Not informed,Syndicate
+325,Hosp Tupa,HTu,Tupa,Tupa,Marilia,University,Not informed,Direct administration,Not informed
+326,Hosp Araras,HAr,Araras,Araras,Piracicaba,Superior isolated school,Federal,Indirect administration,Public
+327,Hosp Conchal,HCo,Conchal,Araras,Piracicaba,Teaching auxiliary,State,Private company,Philanthropic
+328,Hosp Leme,HLe,Leme,Araras,Piracicaba,No teaching activity,Municipal,Private foundation,Private
+329,Hosp Pirassununga,HPi,Pirassununga,Araras,Piracicaba,Teaching hospital,Private,Cooperative,Syndicate
+330,Hosp Santa Cruz da Conceicao,HSa,Santa Cruz da Conceicao,Araras,Piracicaba,Teaching activity not informed,Not informed,Not informed,Not informed
+331,Hosp Cordeiropolis,HCo,Cordeiropolis,Limeira,Piracicaba,University,Federal,Direct administration,Public
+332,Hosp Engenheiro Coelho,HEn,Engenheiro Coelho,Limeira,Piracicaba,Superior isolated school,State,Indirect administration,Philanthropic
+333,Hosp Iracemapolis,HIr,Iracemapolis,Limeira,Piracicaba,Teaching auxiliary,Municipal,Private company,Private
+334,Hosp Limeira,HLi,Limeira,Limeira,Piracicaba,No teaching activity,Private,Private foundation,Syndicate
+335,Hosp aguas de Sao Pedro,Hag,aguas de Sao Pedro,Piracicaba,Piracicaba,Teaching hospital,Not informed,Cooperative,Not informed
+336,Hosp Capivari,HCa,Capivari,Piracicaba,Piracicaba,Teaching activity not informed,Federal,Not informed,Public
+337,Hosp Charqueada,HCh,Charqueada,Piracicaba,Piracicaba,University,State,Direct administration,Philanthropic
+338,Hosp Elias Fausto,HEl,Elias Fausto,Piracicaba,Piracicaba,Superior isolated school,Municipal,Indirect administration,Private
+339,Hosp Mombuca,HMo,Mombuca,Piracicaba,Piracicaba,Teaching auxiliary,Private,Private company,Syndicate
+340,Hosp Piracicaba,HPi,Piracicaba,Piracicaba,Piracicaba,No teaching activity,Not informed,Private foundation,Not informed
+341,Hosp Rafard,HRa,Rafard,Piracicaba,Piracicaba,Teaching hospital,Federal,Cooperative,Public
+342,Hosp Rio das Pedras,HRi,Rio das Pedras,Piracicaba,Piracicaba,Teaching activity not informed,State,Not informed,Philanthropic
+343,Hosp Saltinho,HSa,Saltinho,Piracicaba,Piracicaba,University,Municipal,Direct administration,Private
+344,Hosp Santa Maria da Serra,HSa,Santa Maria da Serra,Piracicaba,Piracicaba,Superior isolated school,Private,Indirect administration,Syndicate
+345,Hosp Sao Pedro,HSa,Sao Pedro,Piracicaba,Piracicaba,Teaching auxiliary,Not informed,Private company,Not informed
+346,Hosp Analandia,HAn,Analandia,Rio Claro,Piracicaba,No teaching activity,Federal,Private foundation,Public
+347,Hosp Corumbatai,HCo,Corumbatai,Rio Claro,Piracicaba,Teaching hospital,State,Cooperative,Philanthropic
+348,Hosp Ipeuna,HIp,Ipeuna,Rio Claro,Piracicaba,Teaching activity not informed,Municipal,Not informed,Private
+349,Hosp Itirapina,HIt,Itirapina,Rio Claro,Piracicaba,University,Private,Direct administration,Syndicate
+350,Hosp Rio Claro,HRi,Rio Claro,Rio Claro,Piracicaba,Superior isolated school,Not informed,Indirect administration,Not informed
+351,Hosp Santa Gertrudes,HSa,Santa Gertrudes,Rio Claro,Piracicaba,Teaching auxiliary,Federal,Private company,Public
+352,Hosp Dracena,HDr,Dracena,Alta Paulista,Presidente Prudente,No teaching activity,State,Private foundation,Philanthropic
+353,Hosp Flora Rica,HFl,Flora Rica,Alta Paulista,Presidente Prudente,Teaching hospital,Municipal,Cooperative,Private
+354,Hosp Irapuru,HIr,Irapuru,Alta Paulista,Presidente Prudente,Teaching activity not informed,Private,Not informed,Syndicate
+355,Hosp Junqueiropolis,HJu,Junqueiropolis,Alta Paulista,Presidente Prudente,University,Not informed,Direct administration,Not informed
+356,Hosp Monte Castelo,HMo,Monte Castelo,Alta Paulista,Presidente Prudente,Superior isolated school,Federal,Indirect administration,Public
+357,Hosp Nova Guataporanga,HNo,Nova Guataporanga,Alta Paulista,Presidente Prudente,Teaching auxiliary,State,Private company,Philanthropic
+358,Hosp Ouro Verde,HOu,Ouro Verde,Alta Paulista,Presidente Prudente,No teaching activity,Municipal,Private foundation,Private
+359,Hosp Panorama,HPa,Panorama,Alta Paulista,Presidente Prudente,Teaching hospital,Private,Cooperative,Syndicate
+360,Hosp Pauliceia,HPa,Pauliceia,Alta Paulista,Presidente Prudente,Teaching activity not informed,Not informed,Not informed,Not informed
+361,Hosp Santa Mercedes,HSa,Santa Mercedes,Alta Paulista,Presidente Prudente,University,Federal,Direct administration,Public
+362,Hosp Sao Joao do Pau d'Alho,HSa,Sao Joao do Pau d'Alho,Alta Paulista,Presidente Prudente,Superior isolated school,State,Indirect administration,Philanthropic
+363,Hosp Tupi Paulista,HTu,Tupi Paulista,Alta Paulista,Presidente Prudente,Teaching auxiliary,Municipal,Private company,Private
+364,Hosp Alfredo Marcondes,HAl,Alfredo Marcondes,Alta Sorocaba,Presidente Prudente,No teaching activity,Private,Private foundation,Syndicate
+365,Hosp alvares Machado,Hal,alvares Machado,Alta Sorocaba,Presidente Prudente,Teaching hospital,Not informed,Cooperative,Not informed
+366,Hosp Anhumas,HAn,Anhumas,Alta Sorocaba,Presidente Prudente,Teaching activity not informed,Federal,Not informed,Public
+367,Hosp Caiabu,HCa,Caiabu,Alta Sorocaba,Presidente Prudente,University,State,Direct administration,Philanthropic
+368,Hosp Emilianopolis,HEm,Emilianopolis,Alta Sorocaba,Presidente Prudente,Superior isolated school,Municipal,Indirect administration,Private
+369,Hosp Estrela do Norte,HEs,Estrela do Norte,Alta Sorocaba,Presidente Prudente,Teaching auxiliary,Private,Private company,Syndicate
+370,Hosp Indiana,HIn,Indiana,Alta Sorocaba,Presidente Prudente,No teaching activity,Not informed,Private foundation,Not informed
+371,Hosp Martinopolis,HMa,Martinopolis,Alta Sorocaba,Presidente Prudente,Teaching hospital,Federal,Cooperative,Public
+372,Hosp Narandiba,HNa,Narandiba,Alta Sorocaba,Presidente Prudente,Teaching activity not informed,State,Not informed,Philanthropic
+373,Hosp Pirapozinho,HPi,Pirapozinho,Alta Sorocaba,Presidente Prudente,University,Municipal,Direct administration,Private
+374,Hosp Presidente Bernardes,HPr,Presidente Bernardes,Alta Sorocaba,Presidente Prudente,Superior isolated school,Private,Indirect administration,Syndicate
+375,Hosp Presidente Prudente,HPr,Presidente Prudente,Alta Sorocaba,Presidente Prudente,Teaching auxiliary,Not informed,Private company,Not informed
+376,Hosp Regente Feijo,HRe,Regente Feijo,Alta Sorocaba,Presidente Prudente,No teaching activity,Federal,Private foundation,Public
+377,Hosp Ribeirao dos indios,HRi,Ribeirao dos indios,Alta Sorocaba,Presidente Prudente,Teaching hospital,State,Cooperative,Philanthropic
+378,Hosp Sandovalina,HSa,Sandovalina,Alta Sorocaba,Presidente Prudente,Teaching activity not informed,Municipal,Not informed,Private
+379,Hosp Santo Anastacio,HSa,Santo Anastacio,Alta Sorocaba,Presidente Prudente,University,Private,Direct administration,Syndicate
+380,Hosp Santo Expedito,HSa,Santo Expedito,Alta Sorocaba,Presidente Prudente,Superior isolated school,Not informed,Indirect administration,Not informed
+381,Hosp Taciba,HTa,Taciba,Alta Sorocaba,Presidente Prudente,Teaching auxiliary,Federal,Private company,Public
+382,Hosp Tarabai,HTa,Tarabai,Alta Sorocaba,Presidente Prudente,No teaching activity,State,Private foundation,Philanthropic
+383,Hosp Iepe,HIe,Iepe,Iepe,Presidente Prudente,Teaching hospital,Municipal,Cooperative,Private
+384,Hosp Joao Ramalho,HJo,Joao Ramalho,Iepe,Presidente Prudente,Teaching activity not informed,Private,Not informed,Syndicate
+385,Hosp Nantes,HNa,Nantes,Iepe,Presidente Prudente,University,Not informed,Direct administration,Not informed
+386,Hosp Quata,HQu,Quata,Iepe,Presidente Prudente,Superior isolated school,Federal,Indirect administration,Public
+387,Hosp Rancharia,HRa,Rancharia,Iepe,Presidente Prudente,Teaching auxiliary,State,Private company,Philanthropic
+388,Hosp Caiua,HCa,Caiua,Extremo Oeste Paulista,Presidente Prudente,No teaching activity,Municipal,Private foundation,Private
+389,Hosp Maraba Paulista,HMa,Maraba Paulista,Extremo Oeste Paulista,Presidente Prudente,Teaching hospital,Private,Cooperative,Syndicate
+390,Hosp Piquerobi,HPi,Piquerobi,Extremo Oeste Paulista,Presidente Prudente,Teaching activity not informed,Not informed,Not informed,Not informed
+391,Hosp Presidente Epitacio,HPr,Presidente Epitacio,Extremo Oeste Paulista,Presidente Prudente,University,Federal,Direct administration,Public
+392,Hosp Presidente Venceslau,HPr,Presidente Venceslau,Extremo Oeste Paulista,Presidente Prudente,Superior isolated school,State,Indirect administration,Philanthropic
+393,Hosp Euclides da Cunha Paulista,HEu,Euclides da Cunha Paulista,Pontal do Paranapanema,Presidente Prudente,Teaching auxiliary,Municipal,Private company,Private
+394,Hosp Mirante do Paranapanema,HMi,Mirante do Paranapanema,Pontal do Paranapanema,Presidente Prudente,No teaching activity,Private,Private foundation,Syndicate
+395,Hosp Rosana,HRo,Rosana,Pontal do Paranapanema,Presidente Prudente,Teaching hospital,Not informed,Cooperative,Not informed
+396,Hosp Teodoro Sampaio,HTe,Teodoro Sampaio,Pontal do Paranapanema,Presidente Prudente,Teaching activity not informed,Federal,Not informed,Public
+397,Hosp Barra do Turvo,HBa,Barra do Turvo,Vale do Ribeira,Registro,University,State,Direct administration,Philanthropic
+398,Hosp Cajati,HCa,Cajati,Vale do Ribeira,Registro,Superior isolated school,Municipal,Indirect administration,Private
+399,Hosp Cananeia,HCa,Cananeia,Vale do Ribeira,Registro,Teaching auxiliary,Private,Private company,Syndicate
+400,Hosp Eldorado,HEl,Eldorado,Vale do Ribeira,Registro,No teaching activity,Not informed,Private foundation,Not informed
+401,Hosp Iguape,HIg,Iguape,Vale do Ribeira,Registro,Teaching hospital,Federal,Cooperative,Public
+402,Hosp Ilha Comprida,HIl,Ilha Comprida,Vale do Ribeira,Registro,Teaching activity not informed,State,Not informed,Philanthropic
+403,Hosp Iporanga,HIp,Iporanga,Vale do Ribeira,Registro,University,Municipal,Direct administration,Private
+404,Hosp Itariri,HIt,Itariri,Vale do Ribeira,Registro,Superior isolated school,Private,Indirect administration,Syndicate
+405,Hosp Jacupiranga,HJa,Jacupiranga,Vale do Ribeira,Registro,Teaching auxiliary,Not informed,Private company,Not informed
+406,Hosp Juquia,HJu,Juquia,Vale do Ribeira,Registro,No teaching activity,Federal,Private foundation,Public
+407,Hosp Miracatu,HMi,Miracatu,Vale do Ribeira,Registro,Teaching hospital,State,Cooperative,Philanthropic
+408,Hosp Pariquera-Acu,HPa,Pariquera-Acu,Vale do Ribeira,Registro,Teaching activity not informed,Municipal,Not informed,Private
+409,Hosp Pedro de Toledo,HPe,Pedro de Toledo,Vale do Ribeira,Registro,University,Private,Direct administration,Syndicate
+410,Hosp Registro,HRe,Registro,Vale do Ribeira,Registro,Superior isolated school,Not informed,Indirect administration,Not informed
+411,Hosp Sete Barras,HSe,Sete Barras,Vale do Ribeira,Registro,Teaching auxiliary,Federal,Private company,Public
+412,Hosp Barrinha,HBa,Barrinha,Horizonte Verde,Ribeirao Preto,No teaching activity,State,Private foundation,Philanthropic
+413,Hosp Dumont,HDu,Dumont,Horizonte Verde,Ribeirao Preto,Teaching hospital,Municipal,Cooperative,Private
+414,Hosp Guariba,HGu,Guariba,Horizonte Verde,Ribeirao Preto,Teaching activity not informed,Private,Not informed,Syndicate
+415,Hosp Jaboticabal,HJa,Jaboticabal,Horizonte Verde,Ribeirao Preto,University,Not informed,Direct administration,Not informed
+416,Hosp Monte Alto,HMo,Monte Alto,Horizonte Verde,Ribeirao Preto,Superior isolated school,Federal,Indirect administration,Public
+417,Hosp Pitangueiras,HPi,Pitangueiras,Horizonte Verde,Ribeirao Preto,Teaching auxiliary,State,Private company,Philanthropic
+418,Hosp Pontal,HPo,Pontal,Horizonte Verde,Ribeirao Preto,No teaching activity,Municipal,Private foundation,Private
+419,Hosp Pradopolis,HPr,Pradopolis,Horizonte Verde,Ribeirao Preto,Teaching hospital,Private,Cooperative,Syndicate
+420,Hosp Sertaozinho,HSe,Sertaozinho,Horizonte Verde,Ribeirao Preto,Teaching activity not informed,Not informed,Not informed,Not informed
+421,Hosp Cravinhos,HCr,Cravinhos,Aquifero Guarani,Ribeirao Preto,University,Federal,Direct administration,Public
+422,Hosp Guatapara,HGu,Guatapara,Aquifero Guarani,Ribeirao Preto,Superior isolated school,State,Indirect administration,Philanthropic
+423,Hosp Jardinopolis,HJa,Jardinopolis,Aquifero Guarani,Ribeirao Preto,Teaching auxiliary,Municipal,Private company,Private
+424,Hosp Luis Antonio,HLu,Luis Antonio,Aquifero Guarani,Ribeirao Preto,No teaching activity,Private,Private foundation,Syndicate
+425,Hosp Ribeirao Preto,HRi,Ribeirao Preto,Aquifero Guarani,Ribeirao Preto,Teaching hospital,Not informed,Cooperative,Not informed
+426,Hosp Santa Rita do Passa Quatro,HSa,Santa Rita do Passa Quatro,Aquifero Guarani,Ribeirao Preto,Teaching activity not informed,Federal,Not informed,Public
+427,Hosp Santa Rosa de Viterbo,HSa,Santa Rosa de Viterbo,Aquifero Guarani,Ribeirao Preto,University,State,Direct administration,Philanthropic
+428,Hosp Sao Simao,HSa,Sao Simao,Aquifero Guarani,Ribeirao Preto,Superior isolated school,Municipal,Indirect administration,Private
+429,Hosp Serra Azul,HSe,Serra Azul,Aquifero Guarani,Ribeirao Preto,Teaching auxiliary,Private,Private company,Syndicate
+430,Hosp Serrana,HSe,Serrana,Aquifero Guarani,Ribeirao Preto,No teaching activity,Not informed,Private foundation,Not informed
+431,Hosp Altinopolis,HAl,Altinopolis,Vale das Cachoeiras,Ribeirao Preto,Teaching hospital,Federal,Cooperative,Public
+432,Hosp Batatais,HBa,Batatais,Vale das Cachoeiras,Ribeirao Preto,Teaching activity not informed,State,Not informed,Philanthropic
+433,Hosp Brodowski,HBr,Brodowski,Vale das Cachoeiras,Ribeirao Preto,University,Municipal,Direct administration,Private
+434,Hosp Cajuru,HCa,Cajuru,Vale das Cachoeiras,Ribeirao Preto,Superior isolated school,Private,Indirect administration,Syndicate
+435,Hosp Cassia dos Coqueiros,HCa,Cassia dos Coqueiros,Vale das Cachoeiras,Ribeirao Preto,Teaching auxiliary,Not informed,Private company,Not informed
+436,Hosp Santa Cruz da Esperanca,HSa,Santa Cruz da Esperanca,Vale das Cachoeiras,Ribeirao Preto,No teaching activity,Federal,Private foundation,Public
+437,Hosp Santo Antonio da Alegria,HSa,Santo Antonio da Alegria,Vale das Cachoeiras,Ribeirao Preto,Teaching hospital,State,Cooperative,Philanthropic
+438,Hosp Estiva Gerbi,HEs,Estiva Gerbi,Baixa Mogiana,S.Jose do Rio Preto,Teaching activity not informed,Municipal,Not informed,Private
+439,Hosp S.Jose do Rio Preto,HS.,S.Jose do Rio Preto,Baixa Mogiana,S.Jose do Rio Preto,University,Private,Direct administration,Syndicate
+440,Hosp Itapira,HIt,Itapira,Baixa Mogiana,S.Jose do Rio Preto,Superior isolated school,Not informed,Indirect administration,Not informed
+441,Hosp Mogi Guacu,HMo,Mogi Guacu,Baixa Mogiana,S.Jose do Rio Preto,Teaching auxiliary,Federal,Private company,Public
+442,Hosp Moji Mirim,HMo,Moji Mirim,Baixa Mogiana,S.Jose do Rio Preto,No teaching activity,State,Private foundation,Philanthropic
+443,Hosp Aguai,HAg,Aguai,Mantiqueira,S.Jose do Rio Preto,Teaching hospital,Municipal,Cooperative,Private
+444,Hosp aguas da Prata,Hag,aguas da Prata,Mantiqueira,S.Jose do Rio Preto,Teaching activity not informed,Private,Not informed,Syndicate
+445,Hosp Espirito Santo do Pinhal,HEs,Espirito Santo do Pinhal,Mantiqueira,S.Jose do Rio Preto,University,Not informed,Direct administration,Not informed
+446,Hosp Santa Cruz das Palmeiras,HSa,Santa Cruz das Palmeiras,Mantiqueira,S.Jose do Rio Preto,Superior isolated school,Federal,Indirect administration,Public
+447,Hosp Santo Antonio do Jardim,HSa,Santo Antonio do Jardim,Mantiqueira,S.Jose do Rio Preto,Teaching auxiliary,State,Private company,Philanthropic
+448,Hosp Sao Joao da Boa Vista,HSa,Sao Joao da Boa Vista,Mantiqueira,S.Jose do Rio Preto,No teaching activity,Municipal,Private foundation,Private
+449,Hosp Tambau,HTa,Tambau,Mantiqueira,S.Jose do Rio Preto,Teaching hospital,Private,Cooperative,Syndicate
+450,Hosp Vargem Grande do Sul,HVa,Vargem Grande do Sul,Mantiqueira,S.Jose do Rio Preto,Teaching activity not informed,Not informed,Not informed,Not informed
+451,Hosp Caconde,HCa,Caconde,Rio Pardo,S.Jose do Rio Preto,University,Federal,Direct administration,Public
+452,Hosp Casa Branca,HCa,Casa Branca,Rio Pardo,S.Jose do Rio Preto,Superior isolated school,State,Indirect administration,Philanthropic
+453,Hosp Divinolandia,HDi,Divinolandia,Rio Pardo,S.Jose do Rio Preto,Teaching auxiliary,Municipal,Private company,Private
+454,Hosp Itobi,HIt,Itobi,Rio Pardo,S.Jose do Rio Preto,No teaching activity,Private,Private foundation,Syndicate
+455,Hosp Mococa,HMo,Mococa,Rio Pardo,S.Jose do Rio Preto,Teaching hospital,Not informed,Cooperative,Not informed
+456,Hosp Sao Jose do Rio Pardo,HSa,Sao Jose do Rio Pardo,Rio Pardo,S.Jose do Rio Preto,Teaching activity not informed,Federal,Not informed,Public
+457,Hosp Sao Sebastiao da Grama,HSa,Sao Sebastiao da Grama,Rio Pardo,S.Jose do Rio Preto,University,State,Direct administration,Philanthropic
+458,Hosp Tapiratiba,HTa,Tapiratiba,Rio Pardo,S.Jose do Rio Preto,Superior isolated school,Municipal,Indirect administration,Private
+459,Hosp Ariranha,HAr,Ariranha,Catanduva,S.Joao da Boa Vista,Teaching auxiliary,Private,Private company,Syndicate
+460,Hosp Catanduva,HCa,Catanduva,Catanduva,S.Joao da Boa Vista,No teaching activity,Not informed,Private foundation,Not informed
+461,Hosp Catigua,HCa,Catigua,Catanduva,S.Joao da Boa Vista,Teaching hospital,Federal,Cooperative,Public
+462,Hosp Elisiario,HEl,Elisiario,Catanduva,S.Joao da Boa Vista,Teaching activity not informed,State,Not informed,Philanthropic
+463,Hosp Fernando Prestes,HFe,Fernando Prestes,Catanduva,S.Joao da Boa Vista,University,Municipal,Direct administration,Private
+464,Hosp Irapua,HIr,Irapua,Catanduva,S.Joao da Boa Vista,Superior isolated school,Private,Indirect administration,Syndicate
+465,Hosp Itajobi,HIt,Itajobi,Catanduva,S.Joao da Boa Vista,Teaching auxiliary,Not informed,Private company,Not informed
+466,Hosp Marapoama,HMa,Marapoama,Catanduva,S.Joao da Boa Vista,No teaching activity,Federal,Private foundation,Public
+467,Hosp Novais,HNo,Novais,Catanduva,S.Joao da Boa Vista,Teaching hospital,State,Cooperative,Philanthropic
+468,Hosp Novo Horizonte,HNo,Novo Horizonte,Catanduva,S.Joao da Boa Vista,Teaching activity not informed,Municipal,Not informed,Private
+469,Hosp Palmares Paulista,HPa,Palmares Paulista,Catanduva,S.Joao da Boa Vista,University,Private,Direct administration,Syndicate
+470,Hosp Paraiso,HPa,Paraiso,Catanduva,S.Joao da Boa Vista,Superior isolated school,Not informed,Indirect administration,Not informed
+471,Hosp Pindorama,HPi,Pindorama,Catanduva,S.Joao da Boa Vista,Teaching auxiliary,Federal,Private company,Public
+472,Hosp Pirangi,HPi,Pirangi,Catanduva,S.Joao da Boa Vista,No teaching activity,State,Private foundation,Philanthropic
+473,Hosp Sales,HSa,Sales,Catanduva,S.Joao da Boa Vista,Teaching hospital,Municipal,Cooperative,Private
+474,Hosp Santa Adelia,HSa,Santa Adelia,Catanduva,S.Joao da Boa Vista,Teaching activity not informed,Private,Not informed,Syndicate
+475,Hosp Tabapua,HTa,Tabapua,Catanduva,S.Joao da Boa Vista,University,Not informed,Direct administration,Not informed
+476,Hosp Urupes,HUr,Urupes,Catanduva,S.Joao da Boa Vista,Superior isolated school,Federal,Indirect administration,Public
+477,Hosp Nova Canaa Paulista,HNo,Nova Canaa Paulista,Santa Fe do Sul,S.Joao da Boa Vista,Teaching auxiliary,State,Private company,Philanthropic
+478,Hosp Rubineia,HRu,Rubineia,Santa Fe do Sul,S.Joao da Boa Vista,No teaching activity,Municipal,Private foundation,Private
+479,Hosp Santa Clara d'Oeste,HSa,Santa Clara d'Oeste,Santa Fe do Sul,S.Joao da Boa Vista,Teaching hospital,Private,Cooperative,Syndicate
+480,Hosp Santa Fe do Sul,HSa,Santa Fe do Sul,Santa Fe do Sul,S.Joao da Boa Vista,Teaching activity not informed,Not informed,Not informed,Not informed
+481,Hosp Santa Rita d'Oeste,HSa,Santa Rita d'Oeste,Santa Fe do Sul,S.Joao da Boa Vista,University,Federal,Direct administration,Public
+482,Hosp Tres Fronteiras,HTr,Tres Fronteiras,Santa Fe do Sul,S.Joao da Boa Vista,Superior isolated school,State,Indirect administration,Philanthropic
+483,Hosp Aparecida d'Oeste,HAp,Aparecida d'Oeste,Jales,S.Joao da Boa Vista,Teaching auxiliary,Municipal,Private company,Private
+484,Hosp Aspasia,HAs,Aspasia,Jales,S.Joao da Boa Vista,No teaching activity,Private,Private foundation,Syndicate
+485,Hosp Dirce Reis,HDi,Dirce Reis,Jales,S.Joao da Boa Vista,Teaching hospital,Not informed,Cooperative,Not informed
+486,Hosp Dolcinopolis,HDo,Dolcinopolis,Jales,S.Joao da Boa Vista,Teaching activity not informed,Federal,Not informed,Public
+487,Hosp Jales,HJa,Jales,Jales,S.Joao da Boa Vista,University,State,Direct administration,Philanthropic
+488,Hosp Marinopolis,HMa,Marinopolis,Jales,S.Joao da Boa Vista,Superior isolated school,Municipal,Indirect administration,Private
+489,Hosp Mesopolis,HMe,Mesopolis,Jales,S.Joao da Boa Vista,Teaching auxiliary,Private,Private company,Syndicate
+490,Hosp Palmeira d'Oeste,HPa,Palmeira d'Oeste,Jales,S.Joao da Boa Vista,No teaching activity,Not informed,Private foundation,Not informed
+491,Hosp Paranapua,HPa,Paranapua,Jales,S.Joao da Boa Vista,Teaching hospital,Federal,Cooperative,Public
+492,Hosp Pontalinda,HPo,Pontalinda,Jales,S.Joao da Boa Vista,Teaching activity not informed,State,Not informed,Philanthropic
+493,Hosp Santa Albertina,HSa,Santa Albertina,Jales,S.Joao da Boa Vista,University,Municipal,Direct administration,Private
+494,Hosp Santa Salete,HSa,Santa Salete,Jales,S.Joao da Boa Vista,Superior isolated school,Private,Indirect administration,Syndicate
+495,Hosp Santana da Ponte Pensa,HSa,Santana da Ponte Pensa,Jales,S.Joao da Boa Vista,Teaching auxiliary,Not informed,Private company,Not informed
+496,Hosp Sao Francisco,HSa,Sao Francisco,Jales,S.Joao da Boa Vista,No teaching activity,Federal,Private foundation,Public
+497,Hosp Urania,HUr,Urania,Jales,S.Joao da Boa Vista,Teaching hospital,State,Cooperative,Philanthropic
+498,Hosp Vitoria Brasil,HVi,Vitoria Brasil,Jales,S.Joao da Boa Vista,Teaching activity not informed,Municipal,Not informed,Private
+499,Hosp Estrela d'Oeste,HEs,Estrela d'Oeste,Fernandopolis,S.Joao da Boa Vista,University,Private,Direct administration,Syndicate
+500,Hosp Fernandopolis,HFe,Fernandopolis,Fernandopolis,S.Joao da Boa Vista,Superior isolated school,Not informed,Indirect administration,Not informed
+501,Hosp Guarani d'Oeste,HGu,Guarani d'Oeste,Fernandopolis,S.Joao da Boa Vista,Teaching auxiliary,Federal,Private company,Public
+502,Hosp Indiapora,HIn,Indiapora,Fernandopolis,S.Joao da Boa Vista,No teaching activity,State,Private foundation,Philanthropic
+503,Hosp Macedonia,HMa,Macedonia,Fernandopolis,S.Joao da Boa Vista,Teaching hospital,Municipal,Cooperative,Private
+504,Hosp Meridiano,HMe,Meridiano,Fernandopolis,S.Joao da Boa Vista,Teaching activity not informed,Private,Not informed,Syndicate
+505,Hosp Mira Estrela,HMi,Mira Estrela,Fernandopolis,S.Joao da Boa Vista,University,Not informed,Direct administration,Not informed
+506,Hosp Ouroeste,HOu,Ouroeste,Fernandopolis,S.Joao da Boa Vista,Superior isolated school,Federal,Indirect administration,Public
+507,Hosp Pedranopolis,HPe,Pedranopolis,Fernandopolis,S.Joao da Boa Vista,Teaching auxiliary,State,Private company,Philanthropic
+508,Hosp Populina,HPo,Populina,Fernandopolis,S.Joao da Boa Vista,No teaching activity,Municipal,Private foundation,Private
+509,Hosp Sao Joao das Duas Pontes,HSa,Sao Joao das Duas Pontes,Fernandopolis,S.Joao da Boa Vista,Teaching hospital,Private,Cooperative,Syndicate
+510,Hosp Sao Joao de Iracema,HSa,Sao Joao de Iracema,Fernandopolis,S.Joao da Boa Vista,Teaching activity not informed,Not informed,Not informed,Not informed
+511,Hosp Turmalina,HTu,Turmalina,Fernandopolis,S.Joao da Boa Vista,University,Federal,Direct administration,Public
+512,Hosp Bady Bassitt,HBa,Bady Bassitt,Sao Jose do Rio Preto,S.Joao da Boa Vista,Superior isolated school,State,Indirect administration,Philanthropic
+513,Hosp Balsamo,HBa,Balsamo,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching auxiliary,Municipal,Private company,Private
+514,Hosp Cedral,HCe,Cedral,Sao Jose do Rio Preto,S.Joao da Boa Vista,No teaching activity,Private,Private foundation,Syndicate
+515,Hosp Guapiacu,HGu,Guapiacu,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching hospital,Not informed,Cooperative,Not informed
+516,Hosp Ibira,HIb,Ibira,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching activity not informed,Federal,Not informed,Public
+517,Hosp Icem,HIc,Icem,Sao Jose do Rio Preto,S.Joao da Boa Vista,University,State,Direct administration,Philanthropic
+518,Hosp Ipigua,HIp,Ipigua,Sao Jose do Rio Preto,S.Joao da Boa Vista,Superior isolated school,Municipal,Indirect administration,Private
+519,Hosp Mirassol,HMi,Mirassol,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching auxiliary,Private,Private company,Syndicate
+520,Hosp Mirassolandia,HMi,Mirassolandia,Sao Jose do Rio Preto,S.Joao da Boa Vista,No teaching activity,Not informed,Private foundation,Not informed
+521,Hosp Neves Paulista,HNe,Neves Paulista,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching hospital,Federal,Cooperative,Public
+522,Hosp Nova Alianca,HNo,Nova Alianca,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching activity not informed,State,Not informed,Philanthropic
+523,Hosp Nova Granada,HNo,Nova Granada,Sao Jose do Rio Preto,S.Joao da Boa Vista,University,Municipal,Direct administration,Private
+524,Hosp Onda Verde,HOn,Onda Verde,Sao Jose do Rio Preto,S.Joao da Boa Vista,Superior isolated school,Private,Indirect administration,Syndicate
+525,Hosp Orindiuva,HOr,Orindiuva,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching auxiliary,Not informed,Private company,Not informed
+526,Hosp Palestina,HPa,Palestina,Sao Jose do Rio Preto,S.Joao da Boa Vista,No teaching activity,Federal,Private foundation,Public
+527,Hosp Paulo de Faria,HPa,Paulo de Faria,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching hospital,State,Cooperative,Philanthropic
+528,Hosp Potirendaba,HPo,Potirendaba,Sao Jose do Rio Preto,S.Joao da Boa Vista,Teaching activity not informed,Municipal,Not informed,Private
+529,Hosp Sao Jose do Rio Preto,HSa,Sao Jose do Rio Preto,Sao Jose do Rio Preto,S.Joao da Boa Vista,University,Private,Direct administration,Syndicate
+530,Hosp Sao Jose do Rio Preto,HSa,Sao Jose do Rio Preto,S.Joao da Boa Vista,Tanabi,Superior isolated school,Not informed,Indirect administration,Not informed
+531,Hosp Sao Jose do Rio Preto,HSa,Sao Jose do Rio Preto,S.Joao da Boa Vista,Uchoa,Teaching auxiliary,Federal,Private company,Public
+532,Hosp Sao Jose do Rio Preto,HSa,Sao Jose do Rio Preto,S.Joao da Boa Vista,Adolfo,No teaching activity,State,Private foundation,Philanthropic
+533,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Jaci,Teaching hospital,Municipal,Cooperative,Private
+534,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Jose Bonifacio,Teaching activity not informed,Private,Not informed,Syndicate
+535,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Mendonca,University,Not informed,Direct administration,Not informed
+536,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Monte Aprazivel,Superior isolated school,Federal,Indirect administration,Public
+537,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Nipoa,Teaching auxiliary,State,Private company,Philanthropic
+538,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Planalto,No teaching activity,Municipal,Private foundation,Private
+539,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Poloni,Teaching hospital,Private,Cooperative,Syndicate
+540,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Ubarana,Teaching activity not informed,Not informed,Not informed,Not informed
+541,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Uniao Paulista,University,Federal,Direct administration,Public
+542,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,Zacarias,Superior isolated school,State,Indirect administration,Philanthropic
+543,Hosp Jose Bonifacio,HJo,Jose Bonifacio,S.Joao da Boa Vista,alvares Florence,Teaching auxiliary,Municipal,Private company,Private
+544,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Americo de Campos,No teaching activity,Private,Private foundation,Syndicate
+545,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Cardoso,Teaching hospital,Not informed,Cooperative,Not informed
+546,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Cosmorama,Teaching activity not informed,Federal,Not informed,Public
+547,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Floreal,University,State,Direct administration,Philanthropic
+548,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Gastao Vidigal,Superior isolated school,Municipal,Indirect administration,Private
+549,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,General Salgado,Teaching auxiliary,Private,Private company,Syndicate
+550,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Macaubal,No teaching activity,Not informed,Private foundation,Not informed
+551,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Magda,Teaching hospital,Federal,Cooperative,Public
+552,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Moncoes,Teaching activity not informed,State,Not informed,Philanthropic
+553,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Nhandeara,University,Municipal,Direct administration,Private
+554,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Parisi,Superior isolated school,Private,Indirect administration,Syndicate
+555,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Pontes Gestal,Teaching auxiliary,Not informed,Private company,Not informed
+556,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Riolandia,No teaching activity,Federal,Private foundation,Public
+557,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Sebastianopolis do Sul,Teaching hospital,State,Cooperative,Philanthropic
+558,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Valentim Gentil,Teaching activity not informed,Municipal,Not informed,Private
+559,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Votuporanga,University,Private,Direct administration,Syndicate
+560,Hosp Votuporanga,HVo,Votuporanga,S.Joao da Boa Vista,Alambari,Superior isolated school,Not informed,Indirect administration,Not informed
+561,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Angatuba,Teaching auxiliary,Federal,Private company,Public
+562,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Campina do Monte Alegre,No teaching activity,State,Private foundation,Philanthropic
+563,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Capao Bonito,Teaching hospital,Municipal,Cooperative,Private
+564,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Cerquilho,Teaching activity not informed,Private,Not informed,Syndicate
+565,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Cesario Lange,University,Not informed,Direct administration,Not informed
+566,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Guarei,Superior isolated school,Federal,Indirect administration,Public
+567,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Itapetininga,Teaching auxiliary,State,Private company,Philanthropic
+568,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Quadra,No teaching activity,Municipal,Private foundation,Private
+569,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Ribeirao Grande,Teaching hospital,Private,Cooperative,Syndicate
+570,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Sao Miguel Arcanjo,Teaching activity not informed,Not informed,Not informed,Not informed
+571,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Sarapui,University,Federal,Direct administration,Public
+572,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Tatui,Superior isolated school,State,Indirect administration,Philanthropic
+573,Hosp Itapetininga,HIt,Itapetininga,Sorocaba,Apiai,Teaching auxiliary,Municipal,Private company,Private
+574,Hosp Itapeva,HIt,Itapeva,Sorocaba,Barra do Chapeu,No teaching activity,Private,Private foundation,Syndicate
+575,Hosp Itapeva,HIt,Itapeva,Sorocaba,Bom Sucesso de Itarare,Teaching hospital,Not informed,Cooperative,Not informed
+576,Hosp Itapeva,HIt,Itapeva,Sorocaba,Buri,Teaching activity not informed,Federal,Not informed,Public
+577,Hosp Itapeva,HIt,Itapeva,Sorocaba,Guapiara,University,State,Direct administration,Philanthropic
+578,Hosp Itapeva,HIt,Itapeva,Sorocaba,Itabera,Superior isolated school,Municipal,Indirect administration,Private
+579,Hosp Itapeva,HIt,Itapeva,Sorocaba,Itaoca,Teaching auxiliary,Private,Private company,Syndicate
+580,Hosp Itapeva,HIt,Itapeva,Sorocaba,Itapeva,No teaching activity,Not informed,Private foundation,Not informed
+581,Hosp Itapeva,HIt,Itapeva,Sorocaba,Itapirapua Paulista,Teaching hospital,Federal,Cooperative,Public
+582,Hosp Itapeva,HIt,Itapeva,Sorocaba,Itarare,Teaching activity not informed,State,Not informed,Philanthropic
+583,Hosp Itapeva,HIt,Itapeva,Sorocaba,Nova Campina,University,Municipal,Direct administration,Private
+584,Hosp Itapeva,HIt,Itapeva,Sorocaba,Ribeira,Superior isolated school,Private,Indirect administration,Syndicate
+585,Hosp Itapeva,HIt,Itapeva,Sorocaba,Ribeirao Branco,Teaching auxiliary,Not informed,Private company,Not informed
+586,Hosp Itapeva,HIt,Itapeva,Sorocaba,Riversul,No teaching activity,Federal,Private foundation,Public
+587,Hosp Itapeva,HIt,Itapeva,Sorocaba,Taquarivai,Teaching hospital,State,Cooperative,Philanthropic
+588,Hosp Itapeva,HIt,Itapeva,Sorocaba,Aluminio,Teaching activity not informed,Municipal,Not informed,Private
+589,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Aracariguama,University,Private,Direct administration,Syndicate
+590,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Aracoiaba da Serra,Superior isolated school,Not informed,Indirect administration,Not informed
+591,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Boituva,Teaching auxiliary,Federal,Private company,Public
+592,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Capela do Alto,No teaching activity,State,Private foundation,Philanthropic
+593,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Ibiuna,Teaching hospital,Municipal,Cooperative,Private
+594,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Ipero,Teaching activity not informed,Private,Not informed,Syndicate
+595,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Itu,University,Not informed,Direct administration,Not informed
+596,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Jumirim,Superior isolated school,Federal,Indirect administration,Public
+597,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Mairinque,Teaching auxiliary,State,Private company,Philanthropic
+598,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Piedade,No teaching activity,Municipal,Private foundation,Private
+599,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Pilar do Sul,Teaching hospital,Private,Cooperative,Syndicate
+600,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Porto Feliz,Teaching activity not informed,Not informed,Not informed,Not informed
+601,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Salto,University,Federal,Direct administration,Public
+602,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Salto de Pirapora,Superior isolated school,State,Indirect administration,Philanthropic
+603,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Sao Roque,Teaching auxiliary,Municipal,Private company,Private
+604,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Sorocaba,No teaching activity,Private,Private foundation,Syndicate
+605,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Tapirai,Teaching hospital,Not informed,Cooperative,Not informed
+606,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Tiete,Teaching activity not informed,Federal,Not informed,Public
+607,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Votorantim,University,State,Direct administration,Philanthropic
+608,Hosp Sorocaba,HSo,Sorocaba,Sorocaba,Cacapava,Superior isolated school,Municipal,Indirect administration,Private
+609,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Igarata,Teaching auxiliary,Private,Private company,Syndicate
+610,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Jacarei,No teaching activity,Not informed,Private foundation,Not informed
+611,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Jambeiro,Teaching hospital,Federal,Cooperative,Public
+612,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Monteiro Lobato,Teaching activity not informed,State,Not informed,Philanthropic
+613,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Paraibuna,University,Municipal,Direct administration,Private
+614,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Santa Branca,Superior isolated school,Private,Indirect administration,Syndicate
+615,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,Sao Jose dos Campos,Teaching auxiliary,Not informed,Private company,Not informed
+616,Hosp Alto Vale do Paraiba,HAl,Alto Vale do Paraiba,Taubate,3,No teaching activity,Federal,Private foundation,Public
+617,Hosp Circ. da Fe-V. Historico,HCi,Circ. da Fe-V. Historico,Aparecida,Circ. da Fe-V. Historico,Teaching hospital,State,Cooperative,Philanthropic
+618,Hosp Taubate,HTa,Taubate,Arapei,Circ. da Fe-V. Historico,Teaching activity not informed,Municipal,Not informed,Private
+619,Hosp Taubate,HTa,Taubate,Areias,Circ. da Fe-V. Historico,University,Private,Direct administration,Syndicate
+620,Hosp Taubate,HTa,Taubate,Bananal,Circ. da Fe-V. Historico,Superior isolated school,Not informed,Indirect administration,Not informed
+621,Hosp Taubate,HTa,Taubate,Cachoeira Paulista,Circ. da Fe-V. Historico,Teaching auxiliary,Federal,Private company,Public
+622,Hosp Taubate,HTa,Taubate,Canas,Circ. da Fe-V. Historico,No teaching activity,State,Private foundation,Philanthropic
+623,Hosp Taubate,HTa,Taubate,Cruzeiro,Circ. da Fe-V. Historico,Teaching hospital,Municipal,Cooperative,Private
+624,Hosp Taubate,HTa,Taubate,Cunha,Circ. da Fe-V. Historico,Teaching activity not informed,Private,Not informed,Syndicate
+625,Hosp Taubate,HTa,Taubate,Guaratingueta,Circ. da Fe-V. Historico,University,Not informed,Direct administration,Not informed
+626,Hosp Taubate,HTa,Taubate,Lavrinhas,Circ. da Fe-V. Historico,Superior isolated school,Federal,Indirect administration,Public
+627,Hosp Taubate,HTa,Taubate,Lorena,Circ. da Fe-V. Historico,Teaching auxiliary,State,Private company,Philanthropic
+628,Hosp Taubate,HTa,Taubate,Piquete,Circ. da Fe-V. Historico,No teaching activity,Municipal,Private foundation,Private
+629,Hosp Taubate,HTa,Taubate,Potim,Circ. da Fe-V. Historico,Teaching hospital,Private,Cooperative,Syndicate
+630,Hosp Taubate,HTa,Taubate,Queluz,Circ. da Fe-V. Historico,Teaching activity not informed,Not informed,Not informed,Not informed
+631,Hosp Taubate,HTa,Taubate,Roseira,Circ. da Fe-V. Historico,University,Federal,Direct administration,Public
+632,Hosp Taubate,HTa,Taubate,Sao Jose do Barreiro,Circ. da Fe-V. Historico,Superior isolated school,State,Indirect administration,Philanthropic
+633,Hosp Taubate,HTa,Taubate,Silveiras,Circ. da Fe-V. Historico,Teaching auxiliary,Municipal,Private company,Private
+634,Hosp Taubate,HTa,Taubate,3,Litoral Norte,No teaching activity,Private,Private foundation,Syndicate
+635,Hosp Caraguatatuba,HCa,Caraguatatuba,Litoral Norte,Taubate,Teaching hospital,Not informed,Cooperative,Not informed
+636,Hosp Ilhabela,HIl,Ilhabela,Litoral Norte,Taubate,Teaching activity not informed,Federal,Not informed,Public
+637,Hosp Sao Sebastiao,HSa,Sao Sebastiao,Litoral Norte,Taubate,University,State,Direct administration,Philanthropic
+638,Hosp Ubatuba,HUb,Ubatuba,Litoral Norte,Taubate,Superior isolated school,Municipal,Indirect administration,Private
+639,Hosp Campos do Jordao,HCa,Campos do Jordao,V. Paraiba - R. Serrana,Taubate,Teaching auxiliary,Private,Private company,Syndicate
+640,Hosp Lagoinha,HLa,Lagoinha,V. Paraiba - R. Serrana,Taubate,No teaching activity,Not informed,Private foundation,Not informed
+641,Hosp Natividade da Serra,HNa,Natividade da Serra,V. Paraiba - R. Serrana,Taubate,Teaching hospital,Federal,Cooperative,Public
+642,Hosp Pindamonhangaba,HPi,Pindamonhangaba,V. Paraiba - R. Serrana,Taubate,Teaching activity not informed,State,Not informed,Philanthropic
+643,Hosp Redencao da Serra,HRe,Redencao da Serra,V. Paraiba - R. Serrana,Taubate,University,Municipal,Direct administration,Private
+644,Hosp Santo Antonio do Pinhal,HSa,Santo Antonio do Pinhal,V. Paraiba - R. Serrana,Taubate,Superior isolated school,Private,Indirect administration,Syndicate
+645,Hosp Sao Bento do Sapucai,HSa,Sao Bento do Sapucai,V. Paraiba - R. Serrana,Taubate,Teaching auxiliary,Not informed,Private company,Not informed
