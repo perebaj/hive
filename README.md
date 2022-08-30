@@ -20,4 +20,8 @@ go in dbeaver and point to local DW that you just instantiated
 ![dbeaver2](./images/Screenshot_3.png)
 ![dbeaver3](./images/Screenshot_4.png)
 
+# Apresentação
+
+https://dapper-boater-ea7.notion.site/Apresenta-o-2-Processamento-de-dados-em-escala-22988c9ff7184258a66425774726fe81
+
 
